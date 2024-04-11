@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Nikhil Babar... and I'm a Computer Engineering Student</h2>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Nikk579&label=Profile%20views&color=0e75b6&style=flat" alt="shrinivas9606" /> 
+  <img src="https://komarev.com/ghpvc/?username=Nikk579&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 ###
 
